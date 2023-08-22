@@ -20,9 +20,6 @@ git clone https://github.com/Shineurysm/ContentSearcher.git
 cd ContentSearcher
 ```
 
-## 📦 Prequisites
-
-> - **Python >= 3.6**
 
 ## 📂 Usage
 
@@ -34,7 +31,11 @@ cd ContentSearcher
 
 **2. Follow the prompts to input the search directory and the content to search for**
 
----
+
+## 📦 Prequisites
+
+> - **Python >= 3.6**
+
 
 ## 🎉 Support
 **If you find this project useful, consider giving it a ⭐️ and share it with your friends!**
