@@ -1,0 +1,136 @@
+engineering, the application of science to the optimum conversion of the resources of nature to the uses of humankind. The field has been defined by the Engineers Council for Professional Development, in the United States, as the creative application of “scientific principles to design or develop structures, machines, apparatus, or manufacturing processes, or works utilizing them singly or in combination; or to construct or operate the same with full cognizance of their design; or to forecast their behaviour under specific operating conditions; all as respects an intended function, economics of operation and safety to life and property.” The term engineering is sometimes more loosely defined, especially in Great Britain, as the manufacture or assembly of engines, machine tools, and machine parts.
+
+The words engine and ingenious are derived from the same Latin root, ingenerare, which means “to create.” The early English verb engine meant “to contrive.” Thus, the engines of war were devices such as catapults, floating bridges, and assault towers; their designer was the “engine-er,” or military engineer. The counterpart of the military engineer was the civil engineer, who applied essentially the same knowledge and skills to designing buildings, streets, water supplies, sewage systems, and other projects.
+
+Associated with engineering is a great body of special knowledge; preparation for professional practice involves extensive training in the application of that knowledge. Standards of engineering practice are maintained through the efforts of professional societies, usually organized on a national or regional basis, with all members acknowledging a responsibility to the public over and above responsibilities to their employers or to other members of their society.
+
+The function of the scientist is to know, while that of the engineer is to do. Scientists add to the store of verified systematized knowledge of the physical world, and engineers bring this knowledge to bear on practical problems. Engineering is based principally on physics, chemistry, and mathematics and their extensions into materials science, solid and fluid mechanics, thermodynamics, transfer and rate processes, and systems analysis.
+
+Unlike scientists, engineers are not free to select the problems that interest them. They must solve problems as they arise, and their solutions must satisfy conflicting requirements. Usually, efficiency costs money, safety adds to complexity, and improved performance increases weight. The engineering solution is the optimum solution, the end result that, taking many factors into account, is most desirable. It may be the most reliable within a given weight limit, the simplest that will satisfy certain safety requirements, or the most efficient for a given cost. In many engineering problems the social and environmental costs are significant.
+
+Engineers employ two types of natural resources—materials and energy. Materials are useful because of their properties: their strength, ease of fabrication, lightness, or durability; their ability to insulate or conduct; their chemical, electrical, or acoustical properties. Important sources of energy include fossil fuels (coal, petroleum, natural gas), wind, sunlight, falling water, and nuclear fission. Since most resources are limited, engineers must concern themselves with the continual development of new resources as well as the efficient utilization of existing ones.
+
+History of engineering
+The first engineer known by name and achievement is Imhotep, builder of the Step Pyramid at Ṣaqqārah, Egypt, probably about 2550 BCE. Imhotep’s successors—Egyptian, Persian, Greek, and Roman—carried civil engineering to remarkable heights on the basis of empirical methods aided by arithmetic, geometry, and a smattering of physical science. The Pharos (lighthouse) of Alexandria, Solomon’s Temple in Jerusalem, the Colosseum in Rome, the Persian and Roman road systems, the Pont du Gard aqueduct in France, and many other large structures, some of which endure to this day, testify to their skill, imagination, and daring. Of many treatises written by them, one in particular survives to provide a picture of engineering education and practice in classical times: Vitruvius’s De architectura, published in Rome in the 1st century CE, a 10-volume work covering building materials, construction methods, hydraulics, measurement, and town planning.
+
+In construction, medieval European engineers carried technique, in the form of the Gothic arch and flying buttress, to a height unknown to the Romans. The sketchbook of the 13th-century French engineer Villard de Honnecourt reveals a wide knowledge of mathematics, geometry, natural and physical science, and draftsmanship.
+
+In Asia, engineering had a separate but very similar development, with more and more sophisticated techniques of construction, hydraulics, and metallurgy helping to create advanced civilizations such as the Mongol empire, whose large, beautiful cities impressed Marco Polo in the 13th century.
+
+Brugge-Zeebrugge Canal, Belgium
+Brugge-Zeebrugge Canal, Belgium
+Civil engineering emerged as a separate discipline in the 18th century, when the first professional societies and schools of engineering were founded. Civil engineers of the 19th century built structures of all kinds, designed water-supply and sanitation systems, laid out railroad and highway networks, and planned cities. England and Scotland were the birthplace of mechanical engineering, as a derivation of the inventions of the Scottish engineer James Watt and the textile machinists of the Industrial Revolution. The development of the British machine-tool industry gave tremendous impetus to the study of mechanical engineering both in Britain and abroad.
+
+Alessandro Volta
+Alessandro Volta
+The growth of knowledge of electricity—from Alessandro Volta’s original electric cell of 1800 through the experiments of Michael Faraday and others, culminating in 1872 in the Gramme dynamo and electric motor (named after the Belgian Zénobe-Théophile Gramme)—led to the development of electrical and electronics engineering. The electronics aspect became prominent through the work of such scientists as James Clerk Maxwell of Britain and Heinrich Hertz of Germany in the late 19th century. Major advances came with the development of the vacuum tube by Lee de Forest of the United States in the early 20th century and the invention of the transistor in the mid-20th century. In the late 20th century electrical and electronics engineers outnumbered all others in the world.
+
+Chemical engineering grew out of the 19th-century proliferation of industrial processes involving chemical reactions in metallurgy, food, textiles, and many other areas. By 1880 the use of chemicals in manufacturing had created an industry whose function was the mass production of chemicals. The design and operation of the plants of this industry became a function of the chemical engineer.
+
+geothermal energy
+geothermal energy
+In the late 20th and early 21st centuries the field of environmental engineering expanded to address global warming and sustainability. The development and deployment of renewable energy, such as solar and wind power, the creation of new technologies for carbon sequestration and pollution control, and the design of green architecture and environmentally friendly urban planning are all recent developments.
+
+Engineering functions
+Problem solving is common to all engineering work. The problem may involve quantitative or qualitative factors; it may be physical or economic; it may require abstract mathematics or common sense. Of great importance is the process of creative synthesis or design, putting ideas together to create a new and optimum solution.
+
+Although engineering problems vary in scope and complexity, the same general approach is applicable. First comes an analysis of the situation and a preliminary decision on a plan of attack. In line with this plan, the problem is reduced to a more categorical question that can be clearly stated. The stated question is then answered by deductive reasoning from known principles or by creative synthesis, as in a new design. The answer or design is always checked for accuracy and adequacy. Finally, the results for the simplified problem are interpreted in terms of the original problem and reported in an appropriate form.
+
+In order of decreasing emphasis on science, the major functions of all engineering branches are the following:
+
+Research. Using mathematical and scientific concepts, experimental techniques, and inductive reasoning, the research engineer seeks new principles and processes.
+Development. Development engineers apply the results of research to useful purposes. Creative application of new knowledge may result in a working model of a new electrical circuit, a chemical process, or an industrial machine.
+Design. In designing a structure or a product, the engineer selects methods, specifies materials, and determines shapes to satisfy technical requirements and to meet performance specifications.
+Construction. The construction engineer is responsible for preparing the site, determining procedures that will economically and safely yield the desired quality, directing the placement of materials, and organizing the personnel and equipment.
+Production. Plant layout and equipment selection are the responsibility of the production engineer, who chooses processes and tools, integrates the flow of materials and components, and provides for testing and inspection.
+Operation. The operating engineer controls machines, plants, and organizations providing power, transportation, and communication; determines procedures; and supervises personnel to obtain reliable and economic operation of complex equipment.
+Management and other functions. In some countries and industries, engineers analyze customers’ requirements, recommend units to satisfy needs economically, and resolve related problems.
+Ralph J. Smith
+The Editors of Encyclopaedia Britannica
+William John Macquorn Rankine
+Table of Contents
+Introduction
+Fast Facts
+Facts & Related Content
+Quizzes
+Faces of Science
+Physics and Natural Law
+More
+More Articles On This Topic
+Contributors
+Article History
+Related Biographies
+Shockley
+William B. Shockley
+American physicist
+Rudolf Clausius
+Rudolf Clausius
+German mathematician and physicist
+Thomas Savery's steam pump
+Thomas Savery
+British engineer and inventor
+Denis Papin
+Denis Papin
+British physicist
+See All
+Home
+Science
+Physics
+Physicists
+Science & Tech
+William John Macquorn Rankine
+Scottish engineer
+    
+Written and fact-checked by 
+Last Updated: Jul 1, 2023 • Article History
+Category: Science & Tech
+Born: July 5, 1820 Edinburgh Scotland
+Died: December 24, 1872 (aged 52) Glasgow Scotland
+Notable Works: “Manual of the Steam Engine and other Prime Movers”
+Subjects Of Study: Rankine cycle Rankine temperature scale steam engine
+William John Macquorn Rankine, (born July 5, 1820, Edinburgh, Scot.—died Dec. 24, 1872, Glasgow), Scottish engineer and physicist and one of the founders of the science of thermodynamics, particularly in reference to steam-engine theory.
+
+Trained as a civil engineer under Sir John Benjamin MacNeill, Rankine was appointed to the Queen Victoria chair of civil engineering and mechanics at the University of Glasgow (1855). One of Rankine’s first scientific works, a paper on fatigue in metals of railway axles (1843), led to new methods of construction. His Manual of Applied Mechanics (1858) was of considerable help to designing engineers and architects. His classic Manual of the Steam Engine and Other Prime Movers (1859) was the first attempt at a systematic treatment of steam-engine theory. Rankine worked out a thermodynamic cycle of events (the so-called Rankine cycle) used as a standard for the performance of steam-power installations in which a condensable vapour provides the working fluid.
+
+Italian-born physicist Dr. Enrico Fermi draws a diagram at a blackboard with mathematical equations. circa 1950.
+Britannica Quiz
+Physics and Natural Law
+In soil mechanics his work on earth pressures and the stability of retaining walls was a notable advance, particularly his paper “On the Thermodynamic Theory of Waves of Finite Longitudinal Disturbance.”
+
+National Science Foundation
+Table of Contents
+Introduction
+Fast Facts
+Facts & Related Content
+Quizzes
+Computers and Technology Quiz
+Media
+Images
+More
+More Articles On This Topic
+Contributors
+Article History
+Home
+Politics, Law & Government
+Politics & Political Systems
+History & Society
+National Science Foundation
+United States government agency
+    
+Also known as: NSF
+Written and fact-checked by 
+Last Updated: Article History
+Category: History & Society
+Date: 1950 - present
+Areas Of Involvement: computer science scientific research sea grant science education
+Related People: Arden L. Bement, Jr. Frances E. Allen
+National Science Foundation (NSF), an independent agency of the U.S. government that supports basic research and education in a wide range of sciences and in mathematics and engineering. Inspired by advances in science and technology that occurred as a result of World War II, the NSF was established by the U.S. Congress in the National Science Foundation Act of 1950. From a budget of approximately $8.5 billion in the early 2020s, it provided about 11,000 awards a year to scientists, students, and teachers. It provided about one-fifth of total federal support of basic scientific research at academic institutions, making it a major source for funding in basic research in the United States.
+
+The NSF grants funding for research in biological sciences; geosciences; mathematics; physical sciences; Arctic and Antarctic research; social, behavioral, and economic sciences; computer and information sciences; and engineering. It also provides support for educational programs in mathematics and sciences at elementary school through university graduate levels.
+
+computer chip. computer. Hand holding computer chip. Central processing unit (CPU). history and society, science and technology, microchip, microprocessor motherboard computer Circuit Board
+Britannica Quiz
+Computers and Technology Quiz
+While the NSF does not operate laboratories, it funds and manages the U.S. Antarctic Program, established by the NSF in 1959, which conducts research in several sciences. The NSF is the executive agency for the Association of Universities for Research in Astronomy, Inc., a consortium of more than 40 universities that conducts research in astronomy at Kitt Peak National Observatory near Tucson, Arizona, and other observatories. In 1994, construction began on the Gemini Observatory—twin 8-metre (26-foot) telescopes for optimum viewing sites in Hawaii and Chile—for which the NSF provided the majority of the funding; the project was completed in 2000. Among other activities, the NSF cooperates in managing the National Center for Atmospheric Research in Boulder, Colorado, and supports international cooperation among American and foreign researchers. Among the most notable results of NSF grants were the experimental computer networks that developed into the Internet.
+
+The NSF is also responsible for administering the National Medal of Science, presented by the president of the United States. Winners of the medal are listed in the table.
